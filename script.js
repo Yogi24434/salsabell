@@ -17,7 +17,7 @@ const nomor_hp_yang_ngirim = "+6281999516708"
 const nama_yang_ngirim = "STARBOY"
 
 // nama 
-const nama = "Zuhratul Azwari"
+const nama = "SalsaBell"
 
 // yang ini biarin aja
 let n = 0
